@@ -18,9 +18,9 @@ This was my **first project** building a graphic interface. So, the design, UI/U
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/emptyError.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/birthDateError.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/welcomeAfterLogin.png" />
-<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/viewAllBills.png" />
-<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/viewCheckout.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/addNewItem.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/checkout.png" />
 <img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/checkoutMsg.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/viewAllBills.png" />
+<img alt="Input 0" src="https://raw.githubusercontent.com/SakarDev/StudentExpenseManagementSystemGUI/master/viewCheckout.png" />
 </ImageGroup>
